@@ -2,7 +2,7 @@
 
 Usage:
 * docker-compose up -d
-* navigate to http://localhost:3000 (default user: admin/admin)
+* navigate to http://localhost:3000
 
 Provided dashboards:
 * MongoDB
