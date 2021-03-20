@@ -7,3 +7,5 @@ Usage:
 Provided dashboards:
 * MongoDB
 * Elasticsearch
+* PHP-FPM
+* NginX (basic stub results)
